@@ -1,5 +1,5 @@
 #!/usr/bin/python 3.9
-#E-bomber
+#mrx.py
 #This code for education purpose only.
 #Use it at your own risk !!!
 # Python 3 rewrite by Omicron166
@@ -37,17 +37,13 @@ print ('                                           ')
 print ('            MRX                                                 ')  
 print ('')
 print ('')
-print ('')
 print ('            GAUTAM KUMAR SINGH                                  ')
-print ('')
 print ('')
 print ('')
 print ('            BIRTHDAY 19/2/2009                                  ')
 print ('')
 print ('')
-print ('')
 print ('           JOIN DISCODE ; https://discord.gg/xx2Vh9x8XV         ')
-print ('')
 print ('')
 print ('')
 
