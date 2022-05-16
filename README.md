@@ -89,6 +89,8 @@ RUN PYTHON ON TERMUX
 EXIT MRX TOOL
 
     ctrl+c
+
+![](https://github.com/haymrx/mrx.py/blob/main/Screenshot_2022-05-16-16-12-30-116_com.termux.jpg)
     
    # THANK YOU FOR USING TOOL.
     
