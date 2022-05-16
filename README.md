@@ -4,6 +4,9 @@ email bombing with mrx tool
 
 THIS IS EMAIL-BOMBING TOOL
 
+# JOIN DISCODE SERVER  
+
+https://discord.gg/xx2Vh9x8XV 
 
 # USE IT ON YOU OWN RISK
 
