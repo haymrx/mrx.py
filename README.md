@@ -95,7 +95,10 @@ EXIT MRX TOOL
    # THANK YOU FOR USING TOOL.
     
     
-    
+# NAME GAUTAM KUMAR SINGH
+# USERNAME MRX
+# DISCORD https://discord.gg/xx2Vh9x8XV
+# GIT HUB https://github.com/haymrx/    
     
     
     
